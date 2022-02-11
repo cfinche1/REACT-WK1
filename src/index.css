@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  border: 5px;
+  border-style: solid;
+  border-color: crimson;
+  background-color: lightcoral;
+}
+
+.nav-link {
+  font-size: large;
+  font-weight: bold;
+}
+
+.navbar {
+  background-color: aqua;
+}
+
